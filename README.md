@@ -12,7 +12,7 @@ Your one Stop solution to all savings and financial needs. We provide saving sol
 
 We do analysis, advice, and perform strategies so that you receive all suggestions based on both your sensitivity to risk and your individual goals. Understanding your short and long term financial goals come first, before any recommendations are made.
 
-_ *Start Today 2 Gain Tomorrow!!* _
+_**Start Today 2 Gain Tomorrow!!**_
 
 ![Image](https://github.com/aviroyfinance/ARoyFinancialSolutions/blob/master/Retirement-Graphics.png).
 
