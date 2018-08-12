@@ -20,10 +20,10 @@ We do analysis, advice, and perform strategies so that you receive all suggestio
 
 Financial Goals Or Insurance Targets differs from individual to individual and therefore we also offer all sort of LIC policies to fulfill all your requirements. You can choose from any policies as available on [LIC Portal Link](https://www.licindia.in/Products/Insurance-Plan) and we will help you with policy details , structure and also to buy with absolutely NO hassle.  
 
-**Products**
+### Products
 
-*[Jeevan Pragati](https://www.licindia.in/Products/Insurance-Plan/LIC-s-Jeevan-Pragati)*<br/>
-[Jeevan Labh](https://www.licindia.in/https://www.licindia.in/Products/Insurance-Plan/Jeevan-Labh)<br/> 
+[**Jeevan Pragati**](https://www.licindia.in/Products/Insurance-Plan/LIC-s-Jeevan-Pragati)<br/>
+[**Jeevan Labh](https://www.licindia.in/Products/Insurance-Plan/Jeevan-Labh)<br/>
 [Single Premium Endowment Plan](https://www.licindia.in/Products/Insurance-Plan/benefits)<br/>
 [New Endowment Plan](https://www.licindia.in/Products/Insurance-Plan/n-endowment)<br/>
 [New Jeevan Anand](https://www.licindia.in/Products/Insurance-Plan/anand)<br/>
@@ -33,10 +33,10 @@ Financial Goals Or Insurance Targets differs from individual to individual and t
 [Aadhaar Shila](https://www.licindia.in/Products/Insurance-Plan/LICs_Aadhaar_Shila)<br/>
 [Aadhaar Stambh](https://www.licindia.in/Products/Insurance-Plan/LICs_Aadhaar_Stambh)<br/>
 [LICs Jeevan Umang](https://www.licindia.in/Products/Insurance-Plan/LICs-Jeevan-Umang)<br/>
-[NEW MONEY BACK PLAN - 20 YEARS](https://www.licindia.in/Products/Insurance-Plan/LIC-s-NEW-MONEY-BACK-PLAN-20-YEARS)<br/>
+[NEW MONEY BACK PLAN - 20 YEARS](https://www.licindia.in/Products/Insurance-Plan/LIC-s-NEW-MONEY-BACK-PLAN-20-YEARS-(UIN-512N280V01)<br/>
 [NEW MONEY BACK PLAN - 25 YEARS](https://www.licindia.in/Products/Insurance-Plan/LIC-s-NEW-MONEY-BACK-PLAN-25-YEARS)<br/>
 [NEW CHILDREN'S MONEY BACK PLAN](https://www.licindia.in/Products/Insurance-Plan/LIC-s-NEW-CHILDREN-S-MONEY-BACK-PLAN-(2))<br/>
-[Jeevan Tarun](https://www.licindia.in/Products/Insurance-Plan/jeevan-tarun)<br/>
+[Jeevan Tarun]**(https://www.licindia.in/Products/Insurance-Plan/jeevan-tarun)<br/>
 
 ### Support or Contact
 
