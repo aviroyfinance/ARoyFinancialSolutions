@@ -22,7 +22,7 @@ Financial Goals Or Insurance Targets differs from individual to individual and t
 
 ### Products
 
-[**Jeevan Pragati**](https://www.licindia.in/Products/Insurance-Plan/LIC-s-Jeevan-Pragati)<br/>
+[**Jeevan Pragati](https://www.licindia.in/Products/Insurance-Plan/LIC-s-Jeevan-Pragati)**<br/>
 [**Jeevan Labh**](https://www.licindia.in/Products/Insurance-Plan/Jeevan-Labh)<br/>
 [**Single Premium Endowment Plan**](https://www.licindia.in/Products/Insurance-Plan/benefits)<br/>
 [**New Endowment Plan**](https://www.licindia.in/Products/Insurance-Plan/n-endowment)<br/>
